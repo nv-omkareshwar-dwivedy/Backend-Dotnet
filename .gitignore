@@ -1,0 +1,56 @@
+# Binaries and build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# IDE files
+.vscode/
+.vs/
+.idea/
+
+# NuGet packages
+packages/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Test results
+TestResults/
+*.trx
+
+# Coverage reports
+*.coverage
+*.coveragexml
+
+# Publish outputs
+publish/
+
+# Rider
+.idea/
+
+# ReSharper
+_ReSharper*/
+
+# Dotnet CLI
+.toolbox/
+
+# ASP.NET Core
+appsettings.*.json
+!appsettings.json
+
+# Entity Framework
+*.db
+*.db-shm
+*.db-wal
+
+# Secrets
+secrets.json
